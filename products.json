@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "name": "Mixed Berry Cheesecake",
+    "image": "https://raw.githubusercontent.com/Dipta3567/api_data/main/assets/product_1.png",
+    "price": 6.50,
+    "description": "A creamy cheesecake topped with a vibrant assortment of mixed berries and a berry glaze."
+  },
+  {
+    "id": 2,
+    "name": "Berry Nut Cake Slice",
+    "image": "https://raw.githubusercontent.com/Dipta3567/api_data/main/assets/product_2.png",
+    "price": 4.75,
+    "description": "A delicious slice of cake featuring a berry cream filling and a crunchy nut topping."
+  },
+  {
+    "id": 3,
+    "name": "Chocolate Raspberry Mint Slice",
+    "image": "https://raw.githubusercontent.com/Dipta3567/api_data/main/assets/product_3.png",
+    "price": 5.25,
+    "description": "Rich double-layer chocolate cake slice with a creamy filling, adorned with fresh raspberries, mint, and a dusting of cocoa."
+  },
+  {
+    "id": 4,
+    "name": "Blueberry Oat Bran Muffin",
+    "image": "https://raw.githubusercontent.com/Dipta3567/api_data/main/assets/product_4.png",
+    "price": 3.50,
+    "description": "Wholesome and flavorful muffin packed with juicy blueberries and topped with oats and nuts."
+  },
+  {
+    "id": 5,
+    "name": "Blueberry Lemon Loaf Cake",
+    "image": "https://raw.githubusercontent.com/Dipta3567/api_data/main/assets/product_5.png",
+    "price": 4.00,
+    "description": "A moist and zesty lemon loaf cake, generously topped with fresh blueberries and a delicate dusting of powdered sugar."
+  },
+  {
+    "id": 6,
+    "name": "Chocolate Cherry Mug Cake",
+    "image": "https://raw.githubusercontent.com/Dipta3567/api_data/main/assets/product_6.png",
+    "price": 5.00,
+    "description": "A decadent individual chocolate cake, lavishly topped with whipped cream, chocolate shavings, and cherries, served with a sprig of mint."
+  }
+]
