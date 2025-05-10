@@ -1,12 +1,12 @@
-[
+t[
   {
     "id": 1,
-    "title": "Freshly Made Daily",
+    "title": "rect",
     "image": "https://raw.githubusercontent.com/Dipta3567/api_data/main/assets/background_rect.png",
   },
   {
     "id": 2,
-    "title": "Freshly Made Daily",
+    "title": "squ",
     "image": "https://raw.githubusercontent.com/Dipta3567/api_data/main/assets/background_square.png",
   }
 ]
