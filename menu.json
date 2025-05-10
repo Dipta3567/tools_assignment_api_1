@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "name": "Grilled Chicken Sandwich",
+    "image": "https://raw.githubusercontent.com/Dipta3567/api_data/main/assets/menu_1.png",
+    "price": 5.99,
+    "description": "Tender grilled chicken with fresh veggies on a toasted bun."
+  },
+  {
+    "id": 2,
+    "name": "Classic Cheeseburger",
+    "image": "https://raw.githubusercontent.com/Dipta3567/api_data/main/assets/menu_2.png",
+    "price": 6.49,
+    "description": "Juicy beef patty topped with cheese and house sauce."
+  },
+  {
+    "id": 3,
+    "name": "Veggie Wrap",
+    "image": "https://raw.githubusercontent.com/Dipta3567/api_data/main/assets/menu_3.png",
+    "price": 4.99,
+    "description": "A healthy mix of fresh vegetables in a soft tortilla."
+  },
+  {
+    "id": 4,
+    "name": "Spaghetti Bolognese",
+    "image": "https://raw.githubusercontent.com/Dipta3567/api_data/main/assets/menu_4.png",
+    "price": 7.99,
+    "description": "Classic Italian pasta with a rich meat sauce."
+  },
+  {
+    "id": 5,
+    "name": "Caesar Salad",
+    "image": "https://raw.githubusercontent.com/Dipta3567/api_data/main/assets/menu_5.webp",
+    "price": 4.5,
+    "description": "Crisp romaine with parmesan, croutons, and Caesar dressing."
+  },
+  {
+    "id": 6,
+    "name": "Chicken Nuggets",
+    "image": "https://raw.githubusercontent.com/Dipta3567/api_data/main/assets/menu_6.webp",
+    "price": 3.99,
+    "description": "Crunchy chicken bites served with your choice of dip."
+  },
+  {
+    "id": 7,
+    "name": "Fish & Chips",
+    "image": "https://raw.githubusercontent.com/Dipta3567/api_data/main/assets/menu_7.webp",
+    "price": 8.25,
+    "description": "Golden-fried fish fillets with seasoned fries."
+  },
+  {
+    "id": 8,
+    "name": "Tandoori Chicken Pizza",
+    "image": "https://raw.githubusercontent.com/Dipta3567/api_data/main/assets/menu_8.webp",
+    "price": 9.75,
+    "description": "Pizza with spicy tandoori chicken and onion toppings."
+  }
+]
