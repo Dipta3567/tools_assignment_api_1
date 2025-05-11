@@ -2,11 +2,11 @@
   {
     "id": 1,
     "title": "rect",
-    "image": "https://raw.githubusercontent.com/Dipta3567/api_data/main/assets/background_rect.png",
+    "image": "https://raw.githubusercontent.com/Dipta3567/api_data/main/assetc/background_rect.png",
   },
   {
     "id": 2,
     "title": "squ",
-    "image": "https://raw.githubusercontent.com/Dipta3567/api_data/main/assets/background_square.png",
+    "image": "https://raw.githubusercontent.com/Dipta3567/api_data/main/assetc/background_square.png",
   }
 ]
