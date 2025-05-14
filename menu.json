@@ -40,19 +40,5 @@
     "image": "https://raw.githubusercontent.com/Dipta3567/api_data/main/assetc/menu_6.webp",
     "price": 3.99,
     "description": "Crunchy chicken bites served with your choice of dip."
-  },
-  {
-    "id": 7,
-    "name": "Fish & Chips",
-    "image": "https://raw.githubusercontent.com/Dipta3567/api_data/main/assetc/menu_7.webp",
-    "price": 8.25,
-    "description": "Golden-fried fish fillets with seasoned fries."
-  },
-  {
-    "id": 8,
-    "name": "Tandoori Chicken Pizza",
-    "image": "https://raw.githubusercontent.com/Dipta3567/api_data/main/assetc/menu_8.webp",
-    "price": 9.75,
-    "description": "Pizza with spicy tandoori chicken and onion toppings."
   }
 ]
